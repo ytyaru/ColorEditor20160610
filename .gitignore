@@ -1,0 +1,7 @@
+# コメント行です
+*.suo
+*.user
+*.log
+bin/
+obj/
+FirstPush.bat
